@@ -29,6 +29,7 @@ def database(dbms):
         file_map = {1: "phones.json", 2: "lottery_expenditures.json", 3: "spongebob_characters.json", 4: user_data}
         return file_map.get(choice, None)
 
+# Helper function: Ensure integer conversion
 def convert_string_to_int(data):
     """
     Recursively converts string representations of integers or floats in a dictionary or list into their numeric types.
@@ -122,6 +123,7 @@ def initialize_sql_data(file_name, user_name):
         print(f"SQL table '{table_name}' loaded into memory.")
     return table_name
 
+# Helper function: Ensure keys are retrieved from nested JSON objects
 def get_all_keys(data, prefix=""):
     """
     Recursively fetch all keys from nested JSON objects.
@@ -171,6 +173,7 @@ def explore_database(choice, file_name, user_name):
         for doc in data[:5]:
             pprint.pprint(doc)
 
+# Helper functions: Preprocess for proper formatting in sql_queries function
 def preprocess_data(table_name):
     """
     Infer and convert column types for data already in sql_data.
@@ -205,6 +208,7 @@ def preprocess_data(table_name):
         col for col, col_type in inferred_types.items() if col_type != str
     ]
 
+# SQL Query Generator
 def sql_queries(table_name, construct=None, mode="sample"):
     """
     Dynamically generates SQL queries based on the table structure and selected constructs.
@@ -462,6 +466,7 @@ def sql_queries(table_name, construct=None, mode="sample"):
     # Return the queries, descriptions, and outputs
     return [(templates[i], nl_templates[i], outputs[i]) for i in range(len(templates))]
 
+# MongoDB Query Generator
 def mongodb_queries(collection_name, construct=None, mode="sample"):
     """
     Dynamically generates MongoDB sample queries based on the collection structure and constructs.
