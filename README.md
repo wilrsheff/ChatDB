@@ -13,13 +13,29 @@ It allows users to:
 - **MySQL** (SQL execution)
 - **MongoDB** (NoSQL execution)
 
-## 📂 Files in this Repository
+## Files in this Repository
 - `chatdb.py` → Python script for query generation
 - `ChatDB Summary Paper.pdf` → Summary report of the project
 - `SampleData/` → Example datasets (CSV, JSON)
 
-## 🚀 How to Use
+## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/wilrsheff/ChatDB.git
    cd ChatDB
+2. Install dependencies:
+   pip install pandas pymongo mysql-connector-python
+3. Run the script:
+   python chatdb.py
+4. Enter your natural language query, and ChatDB will generate an SQL or NoSQL query.
+
+## Sample Query Output
+- User Query: "Get the total sales per category from the sales dataset”
+- Generated SQL Query:
+   SELECT category, SUM(sales) 
+   FROM sales_data 
+   GROUP BY category;
+- Generated MongoDB Query:
+   {
+      "$group": { "_id": "$category", "totalSales": { "$sum": "$sales" } }
+   }
