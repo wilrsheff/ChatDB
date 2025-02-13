@@ -1,0 +1,1001 @@
+[
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Utilities",
+    "Amount": "2399.4",
+    "Vendor Name": "SANIPAC INC",
+    "State": "OR",
+    "GL Acct": "79020"
+  },
+  {
+    "Fiscal Year": "2019",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Rent",
+    "Amount": "17215.68",
+    "Vendor Name": "\"BY FAMILY",
+    "State": " LLC\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Agency Fees",
+    "Amount": "10500",
+    "Vendor Name": "BRIGHTWATER ENTERTAINMENT INC",
+    "State": "OR",
+    "GL Acct": "85010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Agency Fees",
+    "Amount": "5625",
+    "Vendor Name": "CONSTANCE R. JONES",
+    "State": "NV",
+    "GL Acct": "85010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Agency Fees",
+    "Amount": "6500",
+    "Vendor Name": "JANINE ROBINSON",
+    "State": "ON",
+    "GL Acct": "85010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Agency Fees",
+    "Amount": "816237.71",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Agency Fees",
+    "Amount": "47945.75",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Attorney General Charges",
+    "Amount": "272033.8",
+    "Vendor Name": "DEPT OF JUSTICE",
+    "State": "OR",
+    "GL Acct": "77010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building and Structure",
+    "Amount": "8594.35",
+    "Vendor Name": "TECPRO SOLUTIONS",
+    "State": "AK",
+    "GL Acct": "19060"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Improvements and Grounds",
+    "Amount": "548",
+    "Vendor Name": "\"BENTLEY MILLS",
+    "State": " INC.\"",
+    "GL Acct": "CA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Improvements and Grounds",
+    "Amount": "4418.3",
+    "Vendor Name": "\"DALKE CONSTRUCTION CO",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "101686",
+    "Vendor Name": "\"DALKE CONSTRUCTION CO",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "1220.13",
+    "Vendor Name": "HOME DEPOT",
+    "State": "OR",
+    "GL Acct": "80010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "768.2",
+    "Vendor Name": "JOHNSON CONTROLS FIRE PROTECTION LP",
+    "State": "MA",
+    "GL Acct": "80010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "161",
+    "Vendor Name": "NORTHSTAR CHEMICAL INC",
+    "State": "OR",
+    "GL Acct": "80010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "5312.52",
+    "Vendor Name": "\"PACIFIC OFFICE SOLUTIONS",
+    "State": " LLC.\"",
+    "GL Acct": "WA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - General",
+    "Amount": "2825.18",
+    "Vendor Name": "PLATT ELECTRIC SUPPLY",
+    "State": "TX",
+    "GL Acct": "80010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Building Maintenance - Preventative",
+    "Amount": "1128",
+    "Vendor Name": "\"PLANT TENDER",
+    "State": " THE\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Capital Interest Expense",
+    "Amount": "3521648",
+    "Vendor Name": "INTERNATIONAL GAME TECHNOLOGY",
+    "State": "NV",
+    "GL Acct": "91020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cell Phones",
+    "Amount": "712.01",
+    "Vendor Name": "AT&T MOBILITY",
+    "State": "IL",
+    "GL Acct": "74020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cell Phones",
+    "Amount": "7539.26",
+    "Vendor Name": "SPOT LLC",
+    "State": "LA",
+    "GL Acct": "74020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cell Phones",
+    "Amount": "476.62",
+    "Vendor Name": "\"T-MOBILE USA",
+    "State": " INC.\"",
+    "GL Acct": "WA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cell Phones",
+    "Amount": "290130.91",
+    "Vendor Name": "VERIZON WIRELESS",
+    "State": "NJ",
+    "GL Acct": "74020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cell Phones",
+    "Amount": "32630.34",
+    "Vendor Name": "WIRELESS WATCHDOGS",
+    "State": "CA",
+    "GL Acct": "74020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "109462.5",
+    "Vendor Name": "\"AKAMAI TECHNOLOGIES",
+    "State": " INC\"",
+    "GL Acct": "MA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "430490.49",
+    "Vendor Name": "BANKCARD SERVICES LLC",
+    "State": "NV",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "345605.52",
+    "Vendor Name": "GEOCOMPLY SOLUTIONS INC",
+    "State": "BC",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "8139994.73",
+    "Vendor Name": "IGT GLOBAL SOLUTIONS CORPORATION",
+    "State": "OR",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "15083",
+    "Vendor Name": "IMARCSGROUP.COM LLC",
+    "State": "FL",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "43320.25",
+    "Vendor Name": "LEXISNEXIS RISK DATA MANAGEMENT INC",
+    "State": "GA",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "7019904.34",
+    "Vendor Name": "\"SBTECH",
+    "State": " MALTA LIMITED\"",
+    "GL Acct": "MT"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "3040",
+    "Vendor Name": "SENDGRID INC",
+    "State": "CO",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "926513.69",
+    "Vendor Name": "SIGHTLINE INTERACTIVE LLC",
+    "State": "NV",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "553276.74",
+    "Vendor Name": "TRUSTLY",
+    "State": "OR",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Central Gaming System",
+    "Amount": "431538.75",
+    "Vendor Name": "VANTIV",
+    "State": "OH",
+    "GL Acct": "66020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Computer Hardware",
+    "Amount": "28367.11",
+    "Vendor Name": "CDW LLC",
+    "State": "VA",
+    "GL Acct": "19020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Computer Hardware",
+    "Amount": "27514645",
+    "Vendor Name": "IGT GLOBAL SOLUTIONS CORPORATION",
+    "State": "OR",
+    "GL Acct": "19020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Computer Software - Non-Gaming",
+    "Amount": "1927195",
+    "Vendor Name": "\"MCA CONNECT",
+    "State": " LLC\"",
+    "GL Acct": "CO"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Computer Software - Traditional",
+    "Amount": "54119.4",
+    "Vendor Name": "GAMING LABORATORIES INT'L LLC",
+    "State": "NJ",
+    "GL Acct": "19040"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Computer Software - Traditional",
+    "Amount": "5012.5",
+    "Vendor Name": "SPECTRA SYSTEMS CORPORATION",
+    "State": "RI",
+    "GL Acct": "19040"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "126205",
+    "Vendor Name": "BERRYDUNN",
+    "State": "ME",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "215400",
+    "Vendor Name": "\"BULLETPROOF SOLUTIONS",
+    "State": " INC\"",
+    "GL Acct": "VA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "39466.03",
+    "Vendor Name": "CARAHSOFT TECHNOLOGY CORPORATION",
+    "State": "VA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "10918.64",
+    "Vendor Name": "CDW LLC",
+    "State": "VA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "82144.36",
+    "Vendor Name": "CERIDIAN HCM INC",
+    "State": "MN",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "2130000",
+    "Vendor Name": "DELOITTE",
+    "State": "OR",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "13790.14",
+    "Vendor Name": "DEPT OF ADMIN SERVICES ENTERPRISE",
+    "State": "OR",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "324965.6",
+    "Vendor Name": "FORRESTER RESEARCH INC",
+    "State": "MA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "4429702.13",
+    "Vendor Name": "GAMING LABORATORIES INT'L LLC",
+    "State": "NJ",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "310138.75",
+    "Vendor Name": "GREENLIGHT GROUP LLC",
+    "State": "UT",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "32500",
+    "Vendor Name": "IGT GLOBAL SOLUTIONS CORPORATION",
+    "State": "OR",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "39862.24",
+    "Vendor Name": "IMARCSGROUP.COM LLC",
+    "State": "FL",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "495",
+    "Vendor Name": "\"INCIDENT MANAGEMENT GROUP",
+    "State": " INC.\"",
+    "GL Acct": "FL"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "58448",
+    "Vendor Name": "INFORMATION AND COMPUTING SERVICES INC",
+    "State": "FL",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "3900",
+    "Vendor Name": "INFO-TECH RESEARCH GROUP INC",
+    "State": "NV",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "2999000",
+    "Vendor Name": "INTERNATIONAL GAME TECHNOLOGY",
+    "State": "NV",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "2475",
+    "Vendor Name": "IRON MOUNTAIN INTELLECTUAL PROPERTY MGMT",
+    "State": "CA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "0",
+    "Vendor Name": "LANGUAGE TESTING INTERNATIONAL INC",
+    "State": "NY",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "8100",
+    "Vendor Name": "LASERFICHE",
+    "State": "CA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "323130",
+    "Vendor Name": "\"MCA CONNECT",
+    "State": " LLC\"",
+    "GL Acct": "CO"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "187456",
+    "Vendor Name": "MICROSOFT CORPORATION",
+    "State": "WA",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "42734.26",
+    "Vendor Name": "\"NTT DATA",
+    "State": " INC.\"",
+    "GL Acct": "MA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "100",
+    "Vendor Name": "\"OCCUPATIONAL SAFETY",
+    "State": " HEALTH",
+    "GL Acct": " AND WELLNESS"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "539.14",
+    "Vendor Name": "OFFICE DEPOT INC",
+    "State": "FL",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "25750",
+    "Vendor Name": "\"ONENECK IT SOLUTIONS",
+    "State": " LLC.\"",
+    "GL Acct": "WI"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "352.32",
+    "Vendor Name": "SILVERSKY INC",
+    "State": "CT",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "0",
+    "Vendor Name": "SPECTRA SYSTEMS CORPORATION",
+    "State": "RI",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contract Payments",
+    "Amount": "0",
+    "Vendor Name": "TEAMLOGIC IT 63704",
+    "State": "OR",
+    "GL Acct": "77020"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contracts Payable - Short-term",
+    "Amount": "45828.14",
+    "Vendor Name": "\"iCIMS",
+    "State": " INC.\"",
+    "GL Acct": "NJ"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Contracts Payable - Short-term",
+    "Amount": "132965",
+    "Vendor Name": "\"ONENECK IT SOLUTIONS",
+    "State": " LLC.\"",
+    "GL Acct": "WI"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Cost of Tickets",
+    "Amount": "-49.46",
+    "Vendor Name": "SCIENTIFIC GAMES INTERNATIONAL",
+    "State": "CA",
+    "GL Acct": "86010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Creative Production",
+    "Amount": "6180",
+    "Vendor Name": "GRAPHIC PRINT SOLUTIONS",
+    "State": "OR",
+    "GL Acct": "84040"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Creative Production",
+    "Amount": "383032.9",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Creative Production",
+    "Amount": "12935.23",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "5055",
+    "Vendor Name": "DEPT OF ADMIN GOVERNMENT ETHICS",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "16262",
+    "Vendor Name": "DEPT OF ADMIN SERVICES BUSINESS SERVICES",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "42809.26",
+    "Vendor Name": "DEPT OF ADMIN SERVICES OFFICE OF ECONOMIC ANALYSIS",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "2214.27",
+    "Vendor Name": "DEPT OF ADMIN SERVICES PUBLISHING & DISTRIBUTION",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "820677.03",
+    "Vendor Name": "DEPT OF ADMIN SERVICES RISK MANAGEMENT",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "DAS Charges",
+    "Amount": "50802.8",
+    "Vendor Name": "OFFICE OF THE GOVERNOR",
+    "State": "OR",
+    "GL Acct": "75010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Media",
+    "Amount": "201129.01",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Media",
+    "Amount": "-6737.01",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Production",
+    "Amount": "21000",
+    "Vendor Name": "\"AKAMAI TECHNOLOGIES",
+    "State": " INC\"",
+    "GL Acct": "MA"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Production",
+    "Amount": "15686.36",
+    "Vendor Name": "KOCHAVA INC",
+    "State": "ID",
+    "GL Acct": "84105"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Production",
+    "Amount": "696735.65",
+    "Vendor Name": "\"POLLINATE",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Digital Production",
+    "Amount": "758.37",
+    "Vendor Name": "\"ROADMUNK",
+    "State": " INC\"",
+    "GL Acct": "ON"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "205",
+    "Vendor Name": "\"ANGLE",
+    "State": " EDWARD\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "0",
+    "Vendor Name": "BRCCI",
+    "State": "ON",
+    "GL Acct": "78010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "280",
+    "Vendor Name": "DEPT OF ADMIN SERVICES CHIEF FINANCIAL OFFICE",
+    "State": "OR",
+    "GL Acct": "78010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "5000",
+    "Vendor Name": "DEPT OF ADMIN SERVICES PROCUREMENT SERVICES",
+    "State": "OR",
+    "GL Acct": "78010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "740",
+    "Vendor Name": "GOVERNMENT FINANCE OFFICERS ASSOCIATION",
+    "State": "IL",
+    "GL Acct": "78010"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "680",
+    "Vendor Name": "\"RYAN",
+    "State": " MIKE\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Dues",
+    "Amount": "135",
+    "Vendor Name": "\"WICK",
+    "State": " CHRISTOPHER J.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Employment Hearings",
+    "Amount": "208.94",
+    "Vendor Name": "DEPT OF EMPLOYMENT",
+    "State": "OR",
+    "GL Acct": "77040"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance",
+    "Amount": "2176.33",
+    "Vendor Name": "NORLIFT OF OREGON INC",
+    "State": "OR",
+    "GL Acct": "72050"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance",
+    "Amount": "31081.98",
+    "Vendor Name": "TECPRO SOLUTIONS",
+    "State": "AK",
+    "GL Acct": "72050"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Emergency",
+    "Amount": "631.38",
+    "Vendor Name": "ARBON EQUIPMENT CORPORATION",
+    "State": "IL",
+    "GL Acct": "80080"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Emergency",
+    "Amount": "1033",
+    "Vendor Name": "C J HANSEN",
+    "State": "OR",
+    "GL Acct": "80080"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Emergency",
+    "Amount": "122.5",
+    "Vendor Name": "\"CAPITOL CITY DOOR",
+    "State": " INC\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Emergency",
+    "Amount": "2912.09",
+    "Vendor Name": "JOHNSON CONTROLS FIRE PROTECTION LP",
+    "State": "MA",
+    "GL Acct": "80080"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Emergency",
+    "Amount": "1210",
+    "Vendor Name": "TRANE OREGON",
+    "State": "OR",
+    "GL Acct": "80080"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "573",
+    "Vendor Name": "C J HANSEN",
+    "State": "OR",
+    "GL Acct": "80090"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "4704",
+    "Vendor Name": "JOHNSON CONTROLS FIRE PROTECTION LP",
+    "State": "MA",
+    "GL Acct": "80090"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "665",
+    "Vendor Name": "OVERHEAD DOOR",
+    "State": "OR",
+    "GL Acct": "80090"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "4556.03",
+    "Vendor Name": "PACIFIC POWER GROUP",
+    "State": "WA",
+    "GL Acct": "80090"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "980.55",
+    "Vendor Name": "\"ROBERT LLOYD SHEET METAL",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "2614.86",
+    "Vendor Name": "TK ELEVATOR",
+    "State": "OR",
+    "GL Acct": "80090"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Equipment Maintenance - Preventative",
+    "Amount": "400",
+    "Vendor Name": "\"US CRANE & HOIST",
+    "State": " INC.\"",
+    "GL Acct": "OR"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Event/Promotion Fees",
+    "Amount": "260447",
+    "Vendor Name": "\"BEAVER SPORTS PROPERTIES",
+    "State": " LLC\"",
+    "GL Acct": "MO"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Event/Promotion Fees",
+    "Amount": "15000",
+    "Vendor Name": "DEPT OF ADMIN SERVICES CHIEF FINANCIAL OFFICE",
+    "State": "OR",
+    "GL Acct": "84030"
+  },
+  {
+    "Fiscal Year": "2021",
+    "Department": "177-OREGON STATE LOTTERY",
+    "Acct Name": "Event/Promotion Fees",
+    "Amount": "84000",
+    "Vendor Name": "LEARFIELD COMMUNICATIONS LLC",
+    "State": "MO",
+    "GL Acct": "84030"
+  }
+]
