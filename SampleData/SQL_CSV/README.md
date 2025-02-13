@@ -16,8 +16,8 @@ ChatDB **does not require an actual MySQL database**. It loads CSV files into **
    pip install pandas sqlalchemy sqlite3
 2. Run ChatDB and load a CSV dataset:
    python chatdb.py --dataset SampleData/SQL_CSV/books.csv
-3.	Example Query in ChatDB:
+3. Example Query in ChatDB:
    - User Input: “Find the number of books per genre.”
-	- Generated SQL Query: SELECT genre, COUNT(*) FROM books GROUP BY genre;
+   - Generated SQL Query: SELECT genre, COUNT(*) FROM books GROUP BY genre;
 
 **No MySQL database is needed—ChatDB processes CSV files via Python.**
