@@ -6,14 +6,9 @@ This folder contains **CSV datasets** that are used for **SQL query generation**
 |--------------|-------------|
 | `books.csv`  | Contains book details (`title`, `author`, `price`, `genre`) |
 | `sales.csv`  | Transactional sales data (`product_id`, `category`, `sales_amount`, `date`) |
-
-### How to Load CSV Data into MySQL
-1. **Start MySQL:**
-   ```bash
-   mysql -u your_username -p
   
 ### How ChatDB Uses These Datasets
-ChatDB **does not require an actual MySQL database**. It loads CSV files into **Pandas DataFrames** and processes SQL queries in-memory.
+ChatDB **does not require an actual MySQL database**. It loads CSV files into **dataframes** and processes SQL queries in-memory.
 
 ### Running SQL Queries in ChatDB
 1. **Ensure dependencies are installed:**
