@@ -1,11 +1,12 @@
 # SQL_CSV: MySQL Sample Datasets
 This folder contains **CSV datasets** that are used for **SQL query generation** in ChatDB.
 
-### CSV Datasets
-| Dataset Name  | Description |
-|--------------|-------------|
-| `books.csv`  | Contains book details (`title`, `author`, `price`, `genre`) |
-| `sales.csv`  | Transactional sales data (`product_id`, `category`, `sales_amount`, `date`) |
+## CSV Datasets
+| Dataset Name              | Description |
+|---------------------------|-------------|
+| **books.csv**             | Contains book details including title, author, price, and genre. |
+| **e-commerce_sales.csv**  | Transactional sales data for an e-commerce store, including product category, sales amount, and date. |
+| **smartphones_sales.csv** | Sales data specifically for smartphones, covering brand, model, sales figures, and pricing. |
   
 ### How ChatDB Uses These Datasets
 ChatDB **does not require an actual MySQL database**. It loads CSV files into **dataframes** and processes SQL queries in-memory.
