@@ -9,7 +9,7 @@ This folder contains **JSON datasets** used for testing **MongoDB** queries.
 | **spongebob_characters.json**   | Character dataset from the SpongeBob SquarePants universe, including details like name, occupation, residence, and notable appearances. |
 
 ### How ChatDB Uses These Datasets
-ChatDB **does not require an actual MongoDB database**. It loads CSV files into **dataframes** and processes NoSQL queries in-memory.
+ChatDB **does not require an actual MongoDB database**. It loads JSON files into **dataframes** and processes NoSQL queries in-memory.
 
 ### Running NoSQL Queries in ChatDB
 1. **Ensure dependencies are installed:**
