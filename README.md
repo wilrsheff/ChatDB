@@ -15,7 +15,7 @@ It allows users to:
 
 ## Files in this Repository
 - `chatdb.py` → Python script for query generation
-- `ChatDB Summary Paper.pdf` → Summary report of the project
+- `ChatDB Summary Report.pdf` → Summary report of the project
 - `SampleData/` → Example datasets (CSV, JSON)
 
 ## How to Use
