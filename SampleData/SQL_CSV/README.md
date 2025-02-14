@@ -20,5 +20,3 @@ ChatDB **does not require an actual MySQL database**. It loads CSV files into **
 3. Example Query in ChatDB:
    - User Input: “Find the number of books per genre.”
    - Generated SQL Query: SELECT genre, COUNT(*) FROM books GROUP BY genre;
-
-**No MySQL database is needed—ChatDB processes CSV files via Python.**
