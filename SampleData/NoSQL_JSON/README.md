@@ -7,10 +7,10 @@ This folder contains **JSON datasets** used for testing **MongoDB** queries.
 | `phones.json`  | Contains mobile phone details (`brand`, `model`, `price`, `features`) |
 | `users.json`   | User information dataset with fields like `name`, `age`, `location`, `purchases` |
 
-### 🔹 How ChatDB Uses These Datasets
+### How ChatDB Uses These Datasets
 ChatDB processes these JSON files **without needing a MongoDB server**. It reads and queries JSON data dynamically using **Python's `pymongo` and `json` libraries**.
 
-### 🚀 Running NoSQL Queries in ChatDB
+### Running NoSQL Queries in ChatDB
 1. **Ensure dependencies are installed:**
    ```bash
    pip install pymongo pandas
