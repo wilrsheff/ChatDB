@@ -22,5 +22,3 @@ ChatDB **does not require an actual MongoDB database**. It loads JSON files into
 3. Example Query in ChatDB:
    - User Input: “Get the average price of phones per brand.”
    - Generated MongoDB Query: {"$group": { "_id": "$phone_brand", "average_price": { "$avg": "$price" } }}
-   
-**No actual MongoDB instance is required—ChatDB processes JSON files directly.**
