@@ -1,11 +1,12 @@
 # NoSQL_JSON: MongoDB Sample Datasets
 This folder contains **JSON datasets** used for testing **MongoDB** queries.
 
-### JSON Datasets
-| Dataset Name   | Description |
-|---------------|-------------|
-| `phones.json`  | Contains mobile phone details (`brand`, `model`, `price`, `features`) |
-| `users.json`   | User information dataset with fields like `name`, `age`, `location`, `purchases` |
+## JSON Datasets
+| Dataset Name                   | Description |
+|---------------------------------|-------------|
+| **lottery_expenditures.json**   | Data on lottery expenditures, potentially including spending patterns, state-wise statistics, and demographic insights. |
+| **phones.json**                 | Contains mobile phone details, including brand, model, price, and specifications such as display, battery, and connectivity features. |
+| **spongebob_characters.json**   | Character dataset from the SpongeBob SquarePants universe, including details like name, occupation, residence, and notable appearances. |
 
 ### How ChatDB Uses These Datasets
 ChatDB processes these JSON files **without needing a MongoDB server**. It reads and queries JSON data dynamically using **Python's `pymongo` and `json` libraries**.
